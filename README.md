@@ -1,2 +1,2 @@
 # Klasy(Class)
-# Jest to projekt respawnu potworów oraz porównywania ich z naszym "Bohaterem"
+Zawarte są tu wszystkie moje projekty które robiłem w wolnym czasie i są w pełni wykonane przeze mnie.
