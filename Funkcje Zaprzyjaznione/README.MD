@@ -1,1 +1,1 @@
-#Przykład jak działają funkcje zaprzyjaźnione
+#Funkcje zaprzyjaźnione - Friendly Functions
